@@ -1,0 +1,12 @@
+[
+  {
+    "account_id": "lab-account-01",
+    "evidence_ids": [
+      "L01",
+      "L02",
+      "L03"
+    ],
+    "window_minutes": 30,
+    "assessment": "review_required_not_confirmed_compromise"
+  }
+]

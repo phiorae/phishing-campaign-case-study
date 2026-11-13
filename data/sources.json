@@ -1,0 +1,42 @@
+[
+  {
+    "id": "S1",
+    "title": "Microsoft: From cookie theft to BEC",
+    "url": "https://www.microsoft.com/en-us/security/blog/2022/07/12/from-cookie-theft-to-bec-attackers-use-aitm-phishing-sites-as-entry-point-to-further-financial-fraud/",
+    "published": "2022-07-12",
+    "accessed": "2026-11-13",
+    "type": "vendor_first_party_report",
+    "locator": "Tracking an AiTM phishing campaign; Initial access; Post-breach BEC",
+    "limitation": "Один поставщик телеметрии; независимых первичных данных в проекте нет."
+  },
+  {
+    "id": "S2",
+    "title": "MITRE ATT&CK T1539: Steal Web Session Cookie",
+    "url": "https://attack.mitre.org/techniques/T1539/",
+    "published": null,
+    "accessed": "2026-11-13",
+    "type": "technique_reference",
+    "locator": "Description",
+    "limitation": "Описание техники, не независимое подтверждение кампании."
+  },
+  {
+    "id": "S3",
+    "title": "MITRE ATT&CK T1557: Adversary-in-the-Middle",
+    "url": "https://attack.mitre.org/techniques/T1557/",
+    "published": null,
+    "accessed": "2026-11-13",
+    "type": "technique_reference",
+    "locator": "Description",
+    "limitation": "Общая техника; mapping аналитический."
+  },
+  {
+    "id": "S4",
+    "title": "MITRE ATT&CK T1566.001: Spearphishing Attachment",
+    "url": "https://attack.mitre.org/techniques/T1566/001/",
+    "published": null,
+    "accessed": "2026-11-13",
+    "type": "technique_reference",
+    "locator": "Description",
+    "limitation": "Сопоставление HTML-вложения — аналитическая классификация."
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "L01",
+    "account_id": "lab-account-01",
+    "timestamp": "2024-01-01T10:00:00Z",
+    "event_type": "unusual_signin"
+  },
+  {
+    "id": "L02",
+    "account_id": "lab-account-01",
+    "timestamp": "2024-01-01T10:05:00Z",
+    "event_type": "mailbox_access"
+  },
+  {
+    "id": "L03",
+    "account_id": "lab-account-01",
+    "timestamp": "2024-01-01T10:10:00Z",
+    "event_type": "inbox_rule_created"
+  },
+  {
+    "id": "L04",
+    "account_id": "lab-account-02",
+    "timestamp": "2024-01-01T10:00:00Z",
+    "event_type": "unusual_signin"
+  },
+  {
+    "id": "L05",
+    "account_id": "lab-account-02",
+    "timestamp": "2024-01-01T12:00:00Z",
+    "event_type": "inbox_rule_created"
+  }
+]

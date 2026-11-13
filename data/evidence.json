@@ -1,0 +1,50 @@
+[
+  {
+    "id": "E01",
+    "claim": "Microsoft описывает HTML-вложение с приманкой голосового сообщения и последующими перенаправлениями.",
+    "source_ids": [
+      "S1"
+    ],
+    "locator": "Initial access",
+    "kind": "reported_observation",
+    "confidence": "medium",
+    "technique": "T1566.001",
+    "technique_source": "S4"
+  },
+  {
+    "id": "E02",
+    "claim": "В описанном потоке AiTM перехватывает пароль и session cookie.",
+    "source_ids": [
+      "S1"
+    ],
+    "locator": "Tracking an AiTM phishing campaign",
+    "kind": "reported_observation",
+    "confidence": "medium",
+    "technique": "T1539",
+    "technique_source": "S2"
+  },
+  {
+    "id": "E03",
+    "claim": "Автор публикации связывает инфраструктуру исследованных итераций с Evilginx2.",
+    "source_ids": [
+      "S1"
+    ],
+    "locator": "Tracking an AiTM phishing campaign",
+    "kind": "reported_observation",
+    "confidence": "medium",
+    "technique": "T1557",
+    "technique_source": "S3"
+  },
+  {
+    "id": "E04",
+    "claim": "После компрометации Microsoft наблюдал доступ к почте и попытки платёжного мошенничества.",
+    "source_ids": [
+      "S1"
+    ],
+    "locator": "Post-breach BEC",
+    "kind": "reported_observation",
+    "confidence": "medium",
+    "technique": null,
+    "technique_source": null
+  }
+]
